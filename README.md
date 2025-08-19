@@ -30,7 +30,7 @@ Aplicação **Full Stack** de autenticação e autorização, com frontend em **
 ### Backend (Spring Boot)
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/login-angular-java-spring.git
+git clone https://github.com/wendellfranck/login-angular-java-spring.git
 
 # Entre na pasta do backend
 cd login-angular-java-spring/backend
